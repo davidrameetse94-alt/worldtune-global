@@ -1,0 +1,6 @@
+{
+  "name": "WorldTune Global",
+  "description": "All Genres • Full YouTube • Worldwide Hits - Stream and preview the hottest global tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
